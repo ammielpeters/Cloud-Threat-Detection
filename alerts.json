@@ -1,0 +1,14 @@
+[
+    {
+        "ip": "192.168.1.10",
+        "type": "Brute Force Attack",
+        "severity": "High",
+        "time": "2026-03-25T10:02:00"
+    },
+    {
+        "ip": "45.33.32.156",
+        "type": "Known Malicious IP",
+        "severity": "High",
+        "time": "2026-03-25T10:05:00"
+    }
+]
