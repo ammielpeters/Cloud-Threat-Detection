@@ -33,3 +33,16 @@ Cloud Logs → Parser → Detection Engine → Threat Intelligence → Flask Das
 ```bash
 pip install flask
 python app.py
+
+##  Dashboard Preview
+![Dashboard](dashboard.png)
+
+---
+
+##  Detection Engine Output
+![Detection](detection.png)
+
+---
+
+##  Threat Intelligence Check
+![Threat Intel](threat.png)
